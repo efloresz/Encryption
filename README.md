@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-<img src="https://github.com/efloresz/Encryption/assets/110843762/94ccd057-9b7f-4156-b2b0-eff64bb2f7d3" alt="lock" style="width: 250px; height: 200px;"> 
+<img src="https://github.com/efloresz/Encryption/assets/110843762/94ccd057-9b7f-4156-b2b0-eff64bb2f7d3" alt="lock" style="width: 150px; height: 100px;"> 
       </td>
     <td>   
       

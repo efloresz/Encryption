@@ -9,8 +9,8 @@
     The program encrypts users text by implending a dictionary using a key of 3.
   </tr>
 </table
-
-# Sample Outputs:
+ 
+## Sample Outputs:
   <table>
   <tr>
     <td>
@@ -19,6 +19,12 @@
           <img src="https://github.com/efloresz/Encryption/assets/110843762/43143dff-bf1b-4161-b857-e31d62d2a119" alt="Screenshot 3 style="width: 200px; height: 50px;">
   </tr>
 </table>
+
+## What I Learned:
+* Implementing encryption with a fixed offset using a switch statement.
+* Building the encrypted word through string concatenation.
+* Handling exceptions and printing stack trace for debugging.
+
   
   
 ```

@@ -8,7 +8,6 @@ class Encryption {
     public static void main(String[] args){
         String word, updatedWord = "";
         System.out.print("Enter a word to encrypt: ");
-
         try{
             Scanner input = new Scanner(System.in);
             word = input.nextLine();

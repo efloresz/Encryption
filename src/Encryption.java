@@ -94,7 +94,6 @@ class Encryption {
                         updatedWord = updatedWord + "c";
                         break;
                 }
-
             }
         }
         catch(Exception e){

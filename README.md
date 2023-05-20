@@ -16,6 +16,6 @@
 ![Screen Shot 2023-05-20 at 5 07 07 PM](https://github.com/efloresz/Encryption/assets/110843762/43143dff-bf1b-4161-b857-e31d62d2a119)
 
 ```
-~* Analysis: *~
+~* Analysis *~
 Created: 05/20/23
 Status: Complete 
